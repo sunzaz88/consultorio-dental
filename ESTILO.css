@@ -115,6 +115,8 @@ section h2{
   width: 500px;
   color: white;
   box-shadow: 0 4px 10px rgba(19, 209, 234, 0.3);
+  text-align: center;
+  align-items: center;
 }
 
 
