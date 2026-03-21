@@ -104,7 +104,7 @@ section h2{
   padding: 20px;
   align-content: center;
   display: flex;
-  justify-content: center; /* centra horizontal */
+  justify-content: center;
 }
 
 .card{
@@ -115,8 +115,6 @@ section h2{
   width: 500px;
   color: white;
   box-shadow: 0 4px 10px rgba(19, 209, 234, 0.3);
-text-align: center;
- align-items: center;
 }
 
 
